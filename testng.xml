@@ -3,9 +3,9 @@
 <suite name="All Test Suite">
     <test verbose="2" preserve-order="true" name="K:/Automation/FreeCRMTestAutomation">
         <classes>
-            <class name="com.crm.qa.testcases.LoginPageTest">
-<!--            <class name="com.crm.qa.testcases.HomePageTest"/>-->
-<!--            <class name="com.crm.qa.testcases.ContactPageTest">-->
+            <class name="com.crm.qa.testcases.LoginPageTest"/>
+            <class name="com.crm.qa.testcases.HomePageTest"/>
+            <class name="com.crm.qa.testcases.ContactPageTest">
             </class>
         </classes>
     </test>
